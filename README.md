@@ -37,7 +37,7 @@ To use the app, simply enter the required information in the input fields and cl
 
 ## Data
 
-The app uses a dataset of loan applications that is included in the repository (`data.csv`). The dataset contains information about the applicants, such as their age, income, and credit history, as well as whether they were approved for a loan or not.
+The app uses a dataset of loan applications that is included in the repository (`LoanApprovalPrediction.csv`). The dataset contains information about the applicants, such as their age, income, and credit history, as well as whether they were approved for a loan or not.
 
 ## Model
 
