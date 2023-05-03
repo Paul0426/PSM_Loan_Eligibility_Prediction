@@ -4,6 +4,5 @@ scikit-learn
 pickle
 numpy
 seaborn
-tabulate
-matplotlib==3.4.2
+
 
